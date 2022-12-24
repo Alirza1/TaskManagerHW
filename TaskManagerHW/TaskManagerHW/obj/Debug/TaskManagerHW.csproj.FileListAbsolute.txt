@@ -1,0 +1,16 @@
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\bin\Debug\TaskManagerHW.exe.config
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\bin\Debug\TaskManagerHW.exe
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\bin\Debug\TaskManagerHW.pdb
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\MainWindow.g.cs
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\App.g.cs
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW_MarkupCompile.cache
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW_MarkupCompile.lref
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\MainWindow.baml
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.g.resources
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.Properties.Resources.resources
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.csproj.GenerateResource.cache
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.exe
+C:\Users\alirz\source\repos\TaskManagerHW\TaskManagerHW\obj\Debug\TaskManagerHW.pdb
